@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Control Gimbal</string>
+    <string name="title_activity_main">Control Gimbal</string>
+    <string name="title_controlgimbal">Control Gimbal</string>
+
+    <string name="sensor">SENSORS</string>
+    <string name="motorsoff">TURN OFF MOTORS</string>
+    <string name="rotationvector">ROTATION VECTOR</string>
+    <string name="resetgimbal">RESET GIMBAL</string>
+
+</resources>

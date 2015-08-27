@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/control_gimbal"
+        android:title="Control Gimbal" />
+    <item android:id="@+id/home_gimbal"
+        android:title="Home Gimbal" />
+    <item android:id="@+id/reset_gimbal"
+        android:title="Reset Gimbal" />
+</menu>

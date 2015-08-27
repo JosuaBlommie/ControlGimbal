@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/yaw_control"
+        android:title="Yaw Control" />
+    <item android:id="@+id/roll_control"
+        android:title="ROll Control" />
+</menu>
